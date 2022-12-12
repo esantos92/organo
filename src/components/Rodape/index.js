@@ -13,7 +13,7 @@ const Rodape = () => {
         <img src='/images/logo.png' alt='logo facebook'/>
       </div>
       <div className='copy'>
-        <span>Desenvolvido por Everton Santos</span>
+        <span>Desenvolvido por <b>Everton Santos</b></span>
       </div>
     </footer>
   )
