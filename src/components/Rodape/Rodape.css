@@ -19,6 +19,12 @@
   height: 50%;
   margin: 10px;
 }
+
+.logo{
+  display: flex;
+  justify-content: center;
+}
+
 .logo img{
   width: 50%;
   height: 50%;
