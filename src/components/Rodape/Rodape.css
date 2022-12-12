@@ -1,0 +1,30 @@
+.rodape {
+  background-color: #6278F7;
+  display: flex;
+  justify-content: space-around;
+  max-width: 100%;
+  height: 100px;
+  align-items: center;
+}
+
+.redes {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  align-content: center;
+}
+
+.redes img {
+  width: 50%;
+  height: 50%;
+  margin: 10px;
+}
+.logo img{
+  width: 50%;
+  height: 50%;
+  padding: 10px;
+}
+
+.copy {
+  color: #FFF;
+}
